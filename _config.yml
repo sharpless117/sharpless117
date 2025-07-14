@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "John Jih-Chang Liang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Social scientist"
+  location         : "Taipei"
+  employer         : "Academia Sinica"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sharpless117@gmail.com" 
 
   # Academic websites
   academia         : # URL
