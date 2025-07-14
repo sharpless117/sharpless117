@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in the future, ??? University, 2028+6 (expected)
 * M.S. in Political Science, Institute of National Development, National Taiwan University, 2025
 * B.S. in French, National Central University, 2020
 
